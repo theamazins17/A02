@@ -31,3 +31,17 @@ GitHub is a hosting platform where it has easy-to-use version control and collab
 17. To choose your repository's page location opening up settings of the repository. Make sure the branch is `Master Branch` and take note of the URL.
 18. Copy and paste the URL and it should show the entered code, text, etc.
 19. Congrats you now know how Git, GitHub, and WebStorm work together!
+<br><br><br>
+Glossary Terms:<br>
+- **Branch**: a separate version of the main repository.<br>
+- **Clone**: copies a repository into a new directory.<br>
+- **Commit**: makes note of changes made to a repository.<br>
+- **Fetch**: downloads the objects and references from a separate repository.<br>
+- **GIT**: a software that tracks the changes made to any file.<br>
+- **Github**: a web-based version control and collaboration platform for software developers.<br>
+- **Merge**: joins two or more changes made in repositories together.<br>
+- **Merge Conflict**: occurs when merge branches have competing commits.<br>
+- **Push**: uploads edits and changes made to a repository.<br>
+- **Pull**: grabs the changes made and uploads it to another repository or local branch.<br>
+- **Remote**: a repository that team members use to tell each other their changes.<br>
+- **Repository**: tracks the edit history made to all files of a project.<br>
