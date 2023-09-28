@@ -45,3 +45,25 @@ Glossary Terms:<br>
 - **Pull**: grabs the changes made and uploads it to another repository or local branch.<br>
 - **Remote**: a repository that team members use to tell each other their changes.<br>
 - **Repository**: tracks the edit history made to all files of a project.<br>
+<br>
+<br>
+<br>
+References:<br>
+https://git-scm.com/docs/git-fetch <br>
+https://www.git-tower.com/learn/git/glossary/remote#:~:text=A%20remote%20in%20Git%20is,of%20the%20project's%20current%20state. <br>
+https://git-scm.com/docs/git-push <br>
+https://www.techtarget.com/searchitoperations/definition/Git#:~:text=Git%20is%20a%20an%20open,deploy%20Git%20on%20their%20systems. <br>
+https://git-scm.com/docs/git-clone <br>
+https://www.techtarget.com/searchitoperations/definition/GitHub <br>
+https://phoenixnap.com/kb/what-is-a-git-repository#:~:text=A%20Git%20repository%20tracks%20and,save%20them%20in%20the%20repository. <br>
+https://git-scm.com/docs/git-pull <br>
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts <br>
+https://git-scm.com/docs/git-merge <br>
+https://www.jetbrains.com/webstorm/ <br>
+https://git-scm.com/downloads <br>
+https://www.w3schools.com/git/git_intro.asp?remote=github <br>
+https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github <br>
+https://docs.github.com/en/get-started/quickstart/hello-world <br>
+https://www.w3schools.com/git/git_branch.asp?remote=github <br>
+IntroToGitHub-20190318.pptx - https://github.com/theamazins17/A02/files/12754638/IntroToGitHub-20190318.pptx <br>
+ExtraInstallationInstructions-20200214.pdf - https://github.com/theamazins17/A02/files/12754639/ExtraInstallationInstructions-20200214.pdf
